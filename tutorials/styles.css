@@ -1,0 +1,10 @@
+html, body {margin: 0;
+padding: 0;}
+.ul {margin: 0;}
+
+.mh {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-color: rgba(0, 0,0, .6);
+    padding-bottom: 30px
+}

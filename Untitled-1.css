@@ -1,0 +1,64 @@
+/* Import Raleway font from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+}
+.hd{
+    text-align: center;
+    font-size: 2.5em;
+    color: antiquewhite;
+    font: 1.25em 'Metal Mania';
+}
+
+
+.header{
+    background-image: url(stylishgraphy-of-folklore-girl-singing-to-a-microphone-on-stage-ai-generative-photo.jpg);
+    background-size: cover;
+     background-blend-mode:multiply;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.ei{
+    font-size: 1.5em;
+    text-align: center;
+    color: antiquewhite;
+}
+.vv{
+    font-size: 2.5em;
+    text-align: center;
+    color: antiquewhite;
+}
+.button{
+    font-size: 0.9em;
+   
+    padding: 10px;
+    color: antiquewhite;
+    background-blend-mode:multiply;
+    background-color: palevioletred;
+    
+}
+.au{
+    font-style: oblique;
+    text-align: center;
+}
+.brre{
+    text-align: center;
+}
+.contact input{
+    display: flex;
+    padding: 0.8em;
+    
+    max-width: 400px;
+    flex-direction: column;
+    gap: 1em;
+    
+}
+.contact textarea,.contact-form textarea{
+    padding: 1.2em;
+    margin: auto;
+    max-width: 500px;
+}
+   
